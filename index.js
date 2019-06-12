@@ -243,7 +243,7 @@ function scorePage () {
           </div>
           <div class="question counter">
               <ul>
-                  <li> Question: <span class="questionNumber">${userQuestion}</span>/10</li>
+                  <li> Question: <span class="questionNumber">10</span>/10</li>
                     <li>Score: <span class="score">${correctAnswers}</span></li>
               </ul>
           </div>
