@@ -250,7 +250,7 @@ function scorePage () {
           </header>
     <main>
   <div class = 'finalScore'>
-  <img class = 'goodFeedback' src = 'https://i.imgur.com/Sffd7vI.jpg' alt = 'The Radiance'>
+  <img class = 'goodFeedback' src = 'https://i.imgur.com/Sffd7vI.jpg' alt = 'Robert Baratheon and Rhaegar Targaryen fighting'>
   <h1>How did you do?</h1>
   <p>You got ${correctAnswers} questions right!</p>
   <p>Want to try again?</p>
