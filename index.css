@@ -1,0 +1,132 @@
+
+div.background {
+    opacity: .6;
+}
+.background img {
+    display: flex;
+    position: fixed;
+    width: 1920px;
+    
+  }
+
+.header {
+      max-width: 575px;
+      display: block;
+
+      
+  }
+h1 {
+      text-align: center;
+  }
+
+button {
+      background-color: red;
+      display: block;
+      max-width: 125px;
+      
+  }
+
+header {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    justify-content: center;
+    
+}
+
+main {
+    position: relative;
+    padding: 20px;
+  }
+
+.quizBody {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+  }
+
+  .start {
+      display: block;
+      text-align: center;
+  }
+
+.startButton {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+form {
+    background-color: rgb(150, 106, 106);
+    
+     
+}
+
+
+  @media screen and (max-width: 480px) {
+    .header {
+      width: 300px;
+    }
+  }
+
+
+  .goodFeedback {
+      max-width: 350px;
+      max-height: 350px;
+      display: block;
+      margin: 0 auto;
+  }
+
+  
+
+
+  h2 {
+      display: block;
+  }
+ 
+  .negative {
+      max-width: 350px;
+      max-height: 350px;
+      display: block;
+      margin: 0 auto;
+  }
+
+  .finalScore {
+      font: bolder;
+  }
+
+  .questionCounter li {
+      display: inline-block;
+      margin: 0 auto;
+  }
+
+  label {
+      display: block;
+      padding: 3px;
+      cursor: pointer;
+  }
+  
+  button {
+      margin: 0 auto;
+      cursor: pointer;
+  }
+
+  li {
+      display: inline-block;
+      text-decoration: none;
+      
+  }
+  ul {
+      display: flex;
+      justify-content: space-around;
+  }
+  .feedback {
+      text-align: center;
+  }
